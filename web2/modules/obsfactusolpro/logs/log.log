@@ -1,0 +1,550 @@
+[Thu, 17 Jul 2014 19:52:25 +0200] -> INFO: Importando datos desde Factusol
+[Thu, 17 Jul 2014 19:52:25 +0200] -> INFO: Leyendo el fichero de importación SQL
+[Thu, 17 Jul 2014 19:52:25 +0200] -> INFO: Ejecutando script SQL
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: Se han ejecutado correctamente 51 de 51 instrucciones
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: Aplicando los cambios en los productos...
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: Se han obtenido 0 productos y 0 combinaciones a actualizar
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: Se han actualizado correctamente 0 de 0 productos y 0 de 0 combianciones
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: Comprobando productos nuevos...
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: Hay 24 productos o combinaciones de producto nuevos a importar.
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-010784 - ZIPFLIP                                            ( Precio: 10.9500    - Stock: -2.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-01124  - SWITCHIT SPATULA DOBLE CHEF'N                      ( Precio: 9.9500     - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-01131  - CUCHARA DOBLE CHEF'N                               ( Precio: 9.9500     - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-01187  - Picador de ajos CHEF'N Garlic Zoom                 ( Precio: 9.9500     - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-01235  - CHEF'N STEAM GEM                                   ( Precio: 6.9500     - Stock: 7.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-013266 - CHEFN FLEXISCOOP                                   ( Precio: 7.5000     - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-01329  - FRESHFORCE                                         ( Precio: 21.9000    - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-102-041 - PALM PEELER                                        ( Precio: 5.9000     - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-102-078-0 - PALM PEELER SERRATED                               ( Precio: 5.9000     - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-102-105 - PINZA MAGNETICA PARA CERRAR BOLSAS CHEF'N          ( Precio: 2.9500     - Stock: 17.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-102021019 - PALM ZESTER                                        ( Precio: 7.9900     - Stock: -1.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-102069011 - Colador extensible de silicona con mango Sleekstor ( Precio: 17.2700    - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-102159 -  PRENSA LIMONES CHEF'N FRESH FORCE                 ( Precio: 21.9000    - Stock: 2.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-102160 - EZ SQUEEZE CHEF'N Abre latas automatico - iman - c ( Precio: 16.9500    - Stock: 7.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-102239 - PICADORA MANUAL CHEF'N VEGGICHOP                   ( Precio: 24.9500    - Stock: 2.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-108564194 - CHEF'N COOKIE STAMP                                ( Precio: 8.9500     - Stock: 6.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>che-apricot - DUAL GRATER                                        ( Precio: 9.9900     - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-CITRUS - EXPRIMIDOR CHEF'N CITRUS                           ( Precio: 15.0000    - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-LEA-CDU12 - TIJERA LECHUGA                                     ( Precio: 3.9500     - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-SET    - MINI MAGNETIC SET CHEF'N                           ( Precio: 18.9500    - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-SS820ME - SALAD SPINNER PEQUEÑA CHEF'N                      ( Precio: 23.0000    - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-SS822ME - SALAD SPINNER GRANDE CHEF'N                        ( Precio: 29.2500    - Stock: 1.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHE-TRVT260AV - DISCGO AGARRADOR/SALVAMANTELES AGUACATE            ( Precio: 9.0000     - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: <li><em>CHEFS-220  - AFILADOR ELECTRICO CHEF'S CHOICE HYBRID 220        ( Precio: 77.5000    - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 19:52:39 +0200] -> INFO: Se han generado ficheros CSV de importación de categorías y productos nuevos, para importarlos acceda a la pestaña FactuSOL del Back-Office de su tienda y siga las instrucciones.
+[Thu, 17 Jul 2014 19:52:39 +0200] -> ERROR: Proceso finalizado.
+[Thu, 17 Jul 2014 19:54:38 +0200] -> INFO: Importando datos desde Factusol
+[Thu, 17 Jul 2014 19:54:38 +0200] -> INFO: Leyendo el fichero de importación SQL
+[Thu, 17 Jul 2014 19:54:38 +0200] -> INFO: Ejecutando script SQL
+[Thu, 17 Jul 2014 19:54:51 +0200] -> INFO: Se han ejecutado correctamente 51 de 51 instrucciones
+[Thu, 17 Jul 2014 19:54:51 +0200] -> INFO: Aplicando los cambios en los productos...
+[Thu, 17 Jul 2014 19:58:03 +0200] -> INFO: Importando datos desde Factusol
+[Thu, 17 Jul 2014 19:58:03 +0200] -> INFO: Leyendo el fichero de importación SQL
+[Thu, 17 Jul 2014 19:58:03 +0200] -> INFO: Ejecutando script SQL
+[Thu, 17 Jul 2014 19:58:15 +0200] -> INFO: Se han ejecutado correctamente 51 de 51 instrucciones
+[Thu, 17 Jul 2014 19:58:15 +0200] -> INFO: Aplicando los cambios en los productos...
+[Thu, 17 Jul 2014 20:02:43 +0200] -> INFO: Importando datos desde Factusol
+[Thu, 17 Jul 2014 20:02:43 +0200] -> INFO: Leyendo el fichero de importación SQL
+[Thu, 17 Jul 2014 20:02:43 +0200] -> INFO: Ejecutando script SQL
+[Thu, 17 Jul 2014 20:02:57 +0200] -> INFO: Se han ejecutado correctamente 51 de 51 instrucciones
+[Thu, 17 Jul 2014 20:02:57 +0200] -> INFO: Aplicando los cambios en los productos...
+[Thu, 17 Jul 2014 20:04:04 +0200] -> INFO: Importando datos desde Factusol
+[Thu, 17 Jul 2014 20:04:04 +0200] -> INFO: Leyendo el fichero de importación SQL
+[Thu, 17 Jul 2014 20:04:04 +0200] -> INFO: Ejecutando script SQL
+[Thu, 17 Jul 2014 20:04:16 +0200] -> INFO: Se han ejecutado correctamente 51 de 51 instrucciones
+[Thu, 17 Jul 2014 20:04:16 +0200] -> INFO: Aplicando los cambios en los productos...
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: Se han obtenido 1 productos y 0 combinaciones a actualizar
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: Se han actualizado correctamente 1 de 1 productos y 0 de 0 combianciones
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: Comprobando productos nuevos...
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: Hay 24 productos o combinaciones de producto nuevos a importar.
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-010784 - ZIPFLIP                                            ( Precio: 10.9500    - Stock: -2.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-01124  - SWITCHIT SPATULA DOBLE CHEF'N                      ( Precio: 9.9500     - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-01131  - CUCHARA DOBLE CHEF'N                               ( Precio: 9.9500     - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-01187  - Picador de ajos CHEF'N Garlic Zoom                 ( Precio: 9.9500     - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-01235  - CHEF'N STEAM GEM                                   ( Precio: 6.9500     - Stock: 7.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-013266 - CHEFN FLEXISCOOP                                   ( Precio: 7.5000     - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-01329  - FRESHFORCE                                         ( Precio: 21.9000    - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-102-041 - PALM PEELER                                        ( Precio: 5.9000     - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-102-078-0 - PALM PEELER SERRATED                               ( Precio: 5.9000     - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-102-105 - PINZA MAGNETICA PARA CERRAR BOLSAS CHEF'N          ( Precio: 2.9500     - Stock: 17.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-102021019 - PALM ZESTER                                        ( Precio: 7.9900     - Stock: -1.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-102069011 - Colador extensible de silicona con mango Sleekstor ( Precio: 17.2700    - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-102159 -  PRENSA LIMONES CHEF'N FRESH FORCE                 ( Precio: 21.9000    - Stock: 2.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-102160 - EZ SQUEEZE CHEF'N Abre latas automatico - iman - c ( Precio: 16.9500    - Stock: 7.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-102239 - PICADORA MANUAL CHEF'N VEGGICHOP                   ( Precio: 24.9500    - Stock: 2.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-108564194 - CHEF'N COOKIE STAMP                                ( Precio: 8.9500     - Stock: 6.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>che-apricot - DUAL GRATER                                        ( Precio: 9.9900     - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-CITRUS - EXPRIMIDOR CHEF'N CITRUS                           ( Precio: 15.0000    - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-LEA-CDU12 - TIJERA LECHUGA                                     ( Precio: 3.9500     - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-SET    - MINI MAGNETIC SET CHEF'N                           ( Precio: 18.9500    - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-SS820ME - SALAD SPINNER PEQUEÑA CHEF'N                      ( Precio: 23.0000    - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-SS822ME - SALAD SPINNER GRANDE CHEF'N                        ( Precio: 29.2500    - Stock: 1.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHE-TRVT260AV - DISCGO AGARRADOR/SALVAMANTELES AGUACATE            ( Precio: 9.0000     - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: <li><em>CHEFS-220  - AFILADOR ELECTRICO CHEF'S CHOICE HYBRID 220        ( Precio: 77.5000    - Stock: 0.0000 )</em></li>
+[Thu, 17 Jul 2014 20:04:17 +0200] -> INFO: Se han generado ficheros CSV de importación de categorías y productos nuevos, para importarlos acceda a la pestaña FactuSOL del Back-Office de su tienda y siga las instrucciones.
+[Thu, 17 Jul 2014 20:04:17 +0200] -> ERROR: Proceso finalizado.
+[Fri, 08 Aug 2014 11:47:33 +0200] -> INFO: Importando datos desde Factusol
+[Fri, 08 Aug 2014 11:47:33 +0200] -> INFO: Leyendo el fichero de importación SQL
+[Fri, 08 Aug 2014 11:47:33 +0200] -> INFO: Ejecutando script SQL
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: Se han ejecutado correctamente 1 de 1 instrucciones
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: Aplicando los cambios en los productos...
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: Se han obtenido 0 productos y 0 combinaciones a actualizar
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: Se han actualizado correctamente 0 de 0 productos y 0 de 0 combianciones
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: Comprobando productos nuevos...
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: Hay 15 productos o combinaciones de producto nuevos a importar.
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: <li><em>7612811999027 - Sirope de savia 500ml                              ( Precio: 25.6700    - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: <li><em>8423245260046 - Carbonato de magnesio 160G - Sakai                 ( Precio: 0.0000     - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: <li><em>8424644211233 - Aminoácidos esenciales 100compr. - Nutrisport     ( Precio: 24.5700    - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: <li><em>8427483010258 - Aminoácidos esenciales 500mg. 100comp. Sotya      ( Precio: 8.9500     - Stock: 4.0000 )</em></li>
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: <li><em>8429673111707 - 11- 12 Lax - Santa Flora                           ( Precio: 4.6000     - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: <li><em>8436000680089 - Cloruro de magnesio 200G - AML                     ( Precio: 5.7700     - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: <li><em>8436000680348 - Colageno con magnesio 180compr. - AML              ( Precio: 8.1500     - Stock: 3.0000 )</em></li>
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: <li><em>8436000680393 - Colágeno magnesio polvo 350G - AML                ( Precio: 0.0000     - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: <li><em>8436000680485 - Colágeno con Magnesio 20 Sticks - Lajusticia      ( Precio: 6.3200     - Stock: 6.0000 )</em></li>
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: <li><em>8436000680492 - Colágeno con magnesio 270comp. - AML              ( Precio: 11.7500    - Stock: 7.0000 )</em></li>
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: <li><em>8436034160496 - Hepanet 20viales - Way Diet Line                   ( Precio: 15.2000    - Stock: 9.0000 )</em></li>
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: <li><em>8436034160724 - Hidross Diuret 250ml. - Way Diet Line              ( Precio: 7.9800     - Stock: -1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: <li><em>8436044511837 - Oseogen articular en polvo 375G - Drasanvi         ( Precio: 22.5500    - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: <li><em>8436044512995 - Cetonas de frambuesa 60comp. - Drasanvi            ( Precio: 20.8500    - Stock: 3.0000 )</em></li>
+[Fri, 08 Aug 2014 11:47:46 +0200] -> INFO: <li><em>8436044513206 - Jarabe cetonas de frambuesa 500ml. - Drasanvi      ( Precio: 19.8000    - Stock: 6.0000 )</em></li>
+[Fri, 08 Aug 2014 11:48:33 +0200] -> INFO: Importando datos desde Factusol
+[Fri, 08 Aug 2014 11:48:33 +0200] -> INFO: Leyendo el fichero de importación SQL
+[Fri, 08 Aug 2014 11:48:33 +0200] -> INFO: Ejecutando script SQL
+[Fri, 08 Aug 2014 11:48:47 +0200] -> INFO: Se han ejecutado correctamente 1 de 1 instrucciones
+[Fri, 08 Aug 2014 11:48:47 +0200] -> INFO: Aplicando los cambios en los productos...
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: Se han obtenido 0 productos y 0 combinaciones a actualizar
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: Se han actualizado correctamente 0 de 0 productos y 0 de 0 combianciones
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: Comprobando productos nuevos...
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: Hay 15 productos o combinaciones de producto nuevos a importar.
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: <li><em>7612811999027 - Sirope de savia 500ml                              ( Precio: 25.6700    - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: <li><em>8423245260046 - Carbonato de magnesio 160G - Sakai                 ( Precio: 0.0000     - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: <li><em>8424644211233 - Aminoácidos esenciales 100compr. - Nutrisport     ( Precio: 24.5700    - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: <li><em>8427483010258 - Aminoácidos esenciales 500mg. 100comp. Sotya      ( Precio: 8.9500     - Stock: 4.0000 )</em></li>
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: <li><em>8429673111707 - 11- 12 Lax - Santa Flora                           ( Precio: 4.6000     - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: <li><em>8436000680089 - Cloruro de magnesio 200G - AML                     ( Precio: 5.7700     - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: <li><em>8436000680348 - Colageno con magnesio 180compr. - AML              ( Precio: 8.1500     - Stock: 3.0000 )</em></li>
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: <li><em>8436000680393 - Colágeno magnesio polvo 350G - AML                ( Precio: 0.0000     - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: <li><em>8436000680485 - Colágeno con Magnesio 20 Sticks - Lajusticia      ( Precio: 6.3200     - Stock: 6.0000 )</em></li>
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: <li><em>8436000680492 - Colágeno con magnesio 270comp. - AML              ( Precio: 11.7500    - Stock: 7.0000 )</em></li>
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: <li><em>8436034160496 - Hepanet 20viales - Way Diet Line                   ( Precio: 15.2000    - Stock: 9.0000 )</em></li>
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: <li><em>8436034160724 - Hidross Diuret 250ml. - Way Diet Line              ( Precio: 7.9800     - Stock: -1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: <li><em>8436044511837 - Oseogen articular en polvo 375G - Drasanvi         ( Precio: 22.5500    - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: <li><em>8436044512995 - Cetonas de frambuesa 60comp. - Drasanvi            ( Precio: 20.8500    - Stock: 3.0000 )</em></li>
+[Fri, 08 Aug 2014 11:48:48 +0200] -> INFO: <li><em>8436044513206 - Jarabe cetonas de frambuesa 500ml. - Drasanvi      ( Precio: 19.8000    - Stock: 6.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:11 +0200] -> INFO: Importando datos desde Factusol
+[Fri, 08 Aug 2014 11:49:11 +0200] -> INFO: Leyendo el fichero de importación SQL
+[Fri, 08 Aug 2014 11:49:11 +0200] -> INFO: Ejecutando script SQL
+[Fri, 08 Aug 2014 11:49:23 +0200] -> INFO: Se han ejecutado correctamente 1 de 1 instrucciones
+[Fri, 08 Aug 2014 11:49:23 +0200] -> INFO: Aplicando los cambios en los productos...
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: Se han obtenido 0 productos y 0 combinaciones a actualizar
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: Se han actualizado correctamente 0 de 0 productos y 0 de 0 combianciones
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: Comprobando productos nuevos...
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: Hay 15 productos o combinaciones de producto nuevos a importar.
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: <li><em>7612811999027 - Sirope de savia 500ml                              ( Precio: 25.6700    - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: <li><em>8423245260046 - Carbonato de magnesio 160G - Sakai                 ( Precio: 0.0000     - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: <li><em>8424644211233 - Aminoácidos esenciales 100compr. - Nutrisport     ( Precio: 24.5700    - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: <li><em>8427483010258 - Aminoácidos esenciales 500mg. 100comp. Sotya      ( Precio: 8.9500     - Stock: 4.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: <li><em>8429673111707 - 11- 12 Lax - Santa Flora                           ( Precio: 4.6000     - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: <li><em>8436000680089 - Cloruro de magnesio 200G - AML                     ( Precio: 5.7700     - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: <li><em>8436000680348 - Colageno con magnesio 180compr. - AML              ( Precio: 8.1500     - Stock: 3.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: <li><em>8436000680393 - Colágeno magnesio polvo 350G - AML                ( Precio: 0.0000     - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: <li><em>8436000680485 - Colágeno con Magnesio 20 Sticks - Lajusticia      ( Precio: 6.3200     - Stock: 6.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: <li><em>8436000680492 - Colágeno con magnesio 270comp. - AML              ( Precio: 11.7500    - Stock: 7.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: <li><em>8436034160496 - Hepanet 20viales - Way Diet Line                   ( Precio: 15.2000    - Stock: 9.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: <li><em>8436034160724 - Hidross Diuret 250ml. - Way Diet Line              ( Precio: 7.9800     - Stock: -1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: <li><em>8436044511837 - Oseogen articular en polvo 375G - Drasanvi         ( Precio: 22.5500    - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: <li><em>8436044512995 - Cetonas de frambuesa 60comp. - Drasanvi            ( Precio: 20.8500    - Stock: 3.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:24 +0200] -> INFO: <li><em>8436044513206 - Jarabe cetonas de frambuesa 500ml. - Drasanvi      ( Precio: 19.8000    - Stock: 6.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:39 +0200] -> INFO: Importando datos desde Factusol
+[Fri, 08 Aug 2014 11:49:39 +0200] -> INFO: Leyendo el fichero de importación SQL
+[Fri, 08 Aug 2014 11:49:39 +0200] -> INFO: Ejecutando script SQL
+[Fri, 08 Aug 2014 11:49:50 +0200] -> INFO: Se han ejecutado correctamente 1 de 1 instrucciones
+[Fri, 08 Aug 2014 11:49:50 +0200] -> INFO: Aplicando los cambios en los productos...
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: Se han obtenido 0 productos y 0 combinaciones a actualizar
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: Se han actualizado correctamente 0 de 0 productos y 0 de 0 combianciones
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: Comprobando productos nuevos...
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: Hay 15 productos o combinaciones de producto nuevos a importar.
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: <li><em>7612811999027 - Sirope de savia 500ml                              ( Precio: 25.6700    - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: <li><em>8423245260046 - Carbonato de magnesio 160G - Sakai                 ( Precio: 0.0000     - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: <li><em>8424644211233 - Aminoácidos esenciales 100compr. - Nutrisport     ( Precio: 24.5700    - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: <li><em>8427483010258 - Aminoácidos esenciales 500mg. 100comp. Sotya      ( Precio: 8.9500     - Stock: 4.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: <li><em>8429673111707 - 11- 12 Lax - Santa Flora                           ( Precio: 4.6000     - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: <li><em>8436000680089 - Cloruro de magnesio 200G - AML                     ( Precio: 5.7700     - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: <li><em>8436000680348 - Colageno con magnesio 180compr. - AML              ( Precio: 8.1500     - Stock: 3.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: <li><em>8436000680393 - Colágeno magnesio polvo 350G - AML                ( Precio: 0.0000     - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: <li><em>8436000680485 - Colágeno con Magnesio 20 Sticks - Lajusticia      ( Precio: 6.3200     - Stock: 6.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: <li><em>8436000680492 - Colágeno con magnesio 270comp. - AML              ( Precio: 11.7500    - Stock: 7.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: <li><em>8436034160496 - Hepanet 20viales - Way Diet Line                   ( Precio: 15.2000    - Stock: 9.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: <li><em>8436034160724 - Hidross Diuret 250ml. - Way Diet Line              ( Precio: 7.9800     - Stock: -1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: <li><em>8436044511837 - Oseogen articular en polvo 375G - Drasanvi         ( Precio: 22.5500    - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: <li><em>8436044512995 - Cetonas de frambuesa 60comp. - Drasanvi            ( Precio: 20.8500    - Stock: 3.0000 )</em></li>
+[Fri, 08 Aug 2014 11:49:51 +0200] -> INFO: <li><em>8436044513206 - Jarabe cetonas de frambuesa 500ml. - Drasanvi      ( Precio: 19.8000    - Stock: 6.0000 )</em></li>
+[Fri, 08 Aug 2014 11:50:30 +0200] -> INFO: Importando datos desde Factusol
+[Fri, 08 Aug 2014 11:50:30 +0200] -> INFO: Leyendo el fichero de importación SQL
+[Fri, 08 Aug 2014 11:50:30 +0200] -> INFO: Ejecutando script SQL
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: Se han ejecutado correctamente 1 de 1 instrucciones
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: Aplicando los cambios en los productos...
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: Se han obtenido 0 productos y 0 combinaciones a actualizar
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: Se han actualizado correctamente 0 de 0 productos y 0 de 0 combianciones
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: Comprobando productos nuevos...
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: Hay 15 productos o combinaciones de producto nuevos a importar.
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: <li><em>7612811999027 - Sirope de savia 500ml                              ( Precio: 25.6700    - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: <li><em>8423245260046 - Carbonato de magnesio 160G - Sakai                 ( Precio: 0.0000     - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: <li><em>8424644211233 - Aminoácidos esenciales 100compr. - Nutrisport     ( Precio: 24.5700    - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: <li><em>8427483010258 - Aminoácidos esenciales 500mg. 100comp. Sotya      ( Precio: 8.9500     - Stock: 4.0000 )</em></li>
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: <li><em>8429673111707 - 11- 12 Lax - Santa Flora                           ( Precio: 4.6000     - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: <li><em>8436000680089 - Cloruro de magnesio 200G - AML                     ( Precio: 5.7700     - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: <li><em>8436000680348 - Colageno con magnesio 180compr. - AML              ( Precio: 8.1500     - Stock: 3.0000 )</em></li>
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: <li><em>8436000680393 - Colágeno magnesio polvo 350G - AML                ( Precio: 0.0000     - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: <li><em>8436000680485 - Colágeno con Magnesio 20 Sticks - Lajusticia      ( Precio: 6.3200     - Stock: 6.0000 )</em></li>
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: <li><em>8436000680492 - Colágeno con magnesio 270comp. - AML              ( Precio: 11.7500    - Stock: 7.0000 )</em></li>
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: <li><em>8436034160496 - Hepanet 20viales - Way Diet Line                   ( Precio: 15.2000    - Stock: 9.0000 )</em></li>
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: <li><em>8436034160724 - Hidross Diuret 250ml. - Way Diet Line              ( Precio: 7.9800     - Stock: -1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: <li><em>8436044511837 - Oseogen articular en polvo 375G - Drasanvi         ( Precio: 22.5500    - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: <li><em>8436044512995 - Cetonas de frambuesa 60comp. - Drasanvi            ( Precio: 20.8500    - Stock: 3.0000 )</em></li>
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: <li><em>8436044513206 - Jarabe cetonas de frambuesa 500ml. - Drasanvi      ( Precio: 19.8000    - Stock: 6.0000 )</em></li>
+[Fri, 08 Aug 2014 11:50:43 +0200] -> INFO: Se han generado ficheros CSV de importación de categorías y productos nuevos, para importarlos acceda a la pestaña FactuSOL del Back-Office de su tienda y siga las instrucciones.
+[Fri, 08 Aug 2014 11:50:43 +0200] -> ERROR: Proceso finalizado.
+[Fri, 08 Aug 2014 11:57:03 +0200] -> INFO: Importando datos desde Factusol
+[Fri, 08 Aug 2014 11:57:03 +0200] -> INFO: Leyendo el fichero de importación SQL
+[Fri, 08 Aug 2014 11:57:03 +0200] -> INFO: Ejecutando script SQL
+[Fri, 08 Aug 2014 11:57:15 +0200] -> INFO: Se han ejecutado correctamente 1 de 1 instrucciones
+[Fri, 08 Aug 2014 11:57:15 +0200] -> INFO: Aplicando los cambios en los productos...
+[Fri, 08 Aug 2014 11:57:27 +0200] -> INFO: Se han obtenido 15 productos y 0 combinaciones a actualizar
+[Fri, 08 Aug 2014 11:57:27 +0200] -> INFO: Se han actualizado correctamente 15 de 15 productos y 0 de 0 combianciones
+[Fri, 08 Aug 2014 11:57:27 +0200] -> INFO: Comprobando productos nuevos...
+[Fri, 08 Aug 2014 11:57:27 +0200] -> INFO: Hay 0 productos o combinaciones de producto nuevos a importar.
+[Fri, 08 Aug 2014 11:57:27 +0200] -> ERROR: Proceso finalizado.
+[Fri, 08 Aug 2014 11:58:25 +0200] -> INFO: Importando datos desde Factusol
+[Fri, 08 Aug 2014 11:58:25 +0200] -> INFO: Leyendo el fichero de importación SQL
+[Fri, 08 Aug 2014 11:58:25 +0200] -> INFO: Ejecutando script SQL
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: Se han ejecutado correctamente 1 de 1 instrucciones
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: Aplicando los cambios en los productos...
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: Se han obtenido 0 productos y 0 combinaciones a actualizar
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: Se han actualizado correctamente 0 de 0 productos y 0 de 0 combianciones
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: Comprobando productos nuevos...
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: Hay 15 productos o combinaciones de producto nuevos a importar.
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: <li><em>7612811999027 - Sirope de savia 500ml                              ( Precio: 25.6700    - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: <li><em>8423245260046 - Carbonato de magnesio 160G - Sakai                 ( Precio: 0.0000     - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: <li><em>8424644211233 - Aminoácidos esenciales 100compr. - Nutrisport     ( Precio: 24.5700    - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: <li><em>8427483010258 - Aminoácidos esenciales 500mg. 100comp. Sotya      ( Precio: 8.9500     - Stock: 4.0000 )</em></li>
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: <li><em>8429673111707 - 11- 12 Lax - Santa Flora                           ( Precio: 4.6000     - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: <li><em>8436000680089 - Cloruro de magnesio 200G - AML                     ( Precio: 5.7700     - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: <li><em>8436000680348 - Colageno con magnesio 180compr. - AML              ( Precio: 8.1500     - Stock: 3.0000 )</em></li>
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: <li><em>8436000680393 - Colágeno magnesio polvo 350G - AML                ( Precio: 0.0000     - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: <li><em>8436000680485 - Colágeno con Magnesio 20 Sticks - Lajusticia      ( Precio: 6.3200     - Stock: 6.0000 )</em></li>
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: <li><em>8436000680492 - Colágeno con magnesio 270comp. - AML              ( Precio: 11.7500    - Stock: 7.0000 )</em></li>
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: <li><em>8436034160496 - Hepanet 20viales - Way Diet Line                   ( Precio: 15.2000    - Stock: 9.0000 )</em></li>
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: <li><em>8436034160724 - Hidross Diuret 250ml. - Way Diet Line              ( Precio: 7.9800     - Stock: -1.0000 )</em></li>
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: <li><em>8436044511837 - Oseogen articular en polvo 375G - Drasanvi         ( Precio: 22.5500    - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: <li><em>8436044512995 - Cetonas de frambuesa 60comp. - Drasanvi            ( Precio: 20.8500    - Stock: 3.0000 )</em></li>
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: <li><em>8436044513206 - Jarabe cetonas de frambuesa 500ml. - Drasanvi      ( Precio: 19.8000    - Stock: 6.0000 )</em></li>
+[Fri, 08 Aug 2014 11:58:37 +0200] -> INFO: Se han generado ficheros CSV de importación de categorías y productos nuevos, para importarlos acceda a la pestaña FactuSOL del Back-Office de su tienda y siga las instrucciones.
+[Fri, 08 Aug 2014 11:58:37 +0200] -> ERROR: Proceso finalizado.
+[Fri, 08 Aug 2014 12:15:45 +0200] -> INFO: Importando datos desde Factusol
+[Fri, 08 Aug 2014 12:15:45 +0200] -> INFO: Leyendo el fichero de importación SQL
+[Fri, 08 Aug 2014 12:15:45 +0200] -> INFO: Ejecutando script SQL
+[Fri, 08 Aug 2014 12:15:57 +0200] -> INFO: Se han ejecutado correctamente 1 de 1 instrucciones
+[Fri, 08 Aug 2014 12:15:57 +0200] -> INFO: Aplicando los cambios en los productos...
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: Se han obtenido 0 productos y 0 combinaciones a actualizar
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: Se han actualizado correctamente 0 de 0 productos y 0 de 0 combianciones
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: Comprobando productos nuevos...
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: Hay 15 productos o combinaciones de producto nuevos a importar.
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: <li><em>7612811999027 - Sirope de savia 500ml                              ( Precio: 25.6700    - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: <li><em>8423245260046 - Carbonato de magnesio 160G - Sakai                 ( Precio: 0.0000     - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: <li><em>8424644211233 - Aminoácidos esenciales 100compr. - Nutrisport     ( Precio: 24.5700    - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: <li><em>8427483010258 - Aminoácidos esenciales 500mg. 100comp. Sotya      ( Precio: 8.9500     - Stock: 4.0000 )</em></li>
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: <li><em>8429673111707 - 11- 12 Lax - Santa Flora                           ( Precio: 4.6000     - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: <li><em>8436000680089 - Cloruro de magnesio 200G - AML                     ( Precio: 5.7700     - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: <li><em>8436000680348 - Colageno con magnesio 180compr. - AML              ( Precio: 8.1500     - Stock: 3.0000 )</em></li>
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: <li><em>8436000680393 - Colágeno magnesio polvo 350G - AML                ( Precio: 0.0000     - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: <li><em>8436000680485 - Colágeno con Magnesio 20 Sticks - Lajusticia      ( Precio: 6.3200     - Stock: 6.0000 )</em></li>
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: <li><em>8436000680492 - Colágeno con magnesio 270comp. - AML              ( Precio: 11.7500    - Stock: 7.0000 )</em></li>
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: <li><em>8436034160496 - Hepanet 20viales - Way Diet Line                   ( Precio: 15.2000    - Stock: 9.0000 )</em></li>
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: <li><em>8436034160724 - Hidross Diuret 250ml. - Way Diet Line              ( Precio: 7.9800     - Stock: -1.0000 )</em></li>
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: <li><em>8436044511837 - Oseogen articular en polvo 375G - Drasanvi         ( Precio: 22.5500    - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: <li><em>8436044512995 - Cetonas de frambuesa 60comp. - Drasanvi            ( Precio: 20.8500    - Stock: 3.0000 )</em></li>
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: <li><em>8436044513206 - Jarabe cetonas de frambuesa 500ml. - Drasanvi      ( Precio: 19.8000    - Stock: 6.0000 )</em></li>
+[Fri, 08 Aug 2014 12:15:58 +0200] -> INFO: Se han generado ficheros CSV de importación de categorías y productos nuevos, para importarlos acceda a la pestaña FactuSOL del Back-Office de su tienda y siga las instrucciones.
+[Fri, 08 Aug 2014 12:15:58 +0200] -> ERROR: Proceso finalizado.
+[Fri, 08 Aug 2014 12:31:28 +0200] -> INFO: Importando datos desde Factusol
+[Fri, 08 Aug 2014 12:31:28 +0200] -> INFO: Leyendo el fichero de importación SQL
+[Fri, 08 Aug 2014 12:31:28 +0200] -> INFO: Ejecutando script SQL
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: Se han ejecutado correctamente 1 de 1 instrucciones
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: Aplicando los cambios en los productos...
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: Se han obtenido 0 productos y 0 combinaciones a actualizar
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: Se han actualizado correctamente 0 de 0 productos y 0 de 0 combianciones
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: Comprobando productos nuevos...
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: Hay 15 productos o combinaciones de producto nuevos a importar.
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: <li><em>7612811999027 - Sirope de savia 500ml                              ( Precio: 25.6700    - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: <li><em>8423245260046 - Carbonato de magnesio 160G - Sakai                 ( Precio: 0.0000     - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: <li><em>8424644211233 - Aminoácidos esenciales 100compr. - Nutrisport     ( Precio: 24.5700    - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: <li><em>8427483010258 - Aminoácidos esenciales 500mg. 100comp. Sotya      ( Precio: 8.9500     - Stock: 4.0000 )</em></li>
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: <li><em>8429673111707 - 11- 12 Lax - Santa Flora                           ( Precio: 4.6000     - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: <li><em>8436000680089 - Cloruro de magnesio 200G - AML                     ( Precio: 5.7700     - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: <li><em>8436000680348 - Colageno con magnesio 180compr. - AML              ( Precio: 8.1500     - Stock: 3.0000 )</em></li>
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: <li><em>8436000680393 - Colágeno magnesio polvo 350G - AML                ( Precio: 0.0000     - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: <li><em>8436000680485 - Colágeno con Magnesio 20 Sticks - Lajusticia      ( Precio: 6.3200     - Stock: 6.0000 )</em></li>
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: <li><em>8436000680492 - Colágeno con magnesio 270comp. - AML              ( Precio: 11.7500    - Stock: 7.0000 )</em></li>
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: <li><em>8436034160496 - Hepanet 20viales - Way Diet Line                   ( Precio: 15.2000    - Stock: 9.0000 )</em></li>
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: <li><em>8436034160724 - Hidross Diuret 250ml. - Way Diet Line              ( Precio: 7.9800     - Stock: -1.0000 )</em></li>
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: <li><em>8436044511837 - Oseogen articular en polvo 375G - Drasanvi         ( Precio: 22.5500    - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: <li><em>8436044512995 - Cetonas de frambuesa 60comp. - Drasanvi            ( Precio: 20.8500    - Stock: 3.0000 )</em></li>
+[Fri, 08 Aug 2014 12:31:42 +0200] -> INFO: <li><em>8436044513206 - Jarabe cetonas de frambuesa 500ml. - Drasanvi      ( Precio: 19.8000    - Stock: 6.0000 )</em></li>
+[Fri, 08 Aug 2014 12:33:55 +0200] -> INFO: Importando datos desde Factusol
+[Fri, 08 Aug 2014 12:33:55 +0200] -> INFO: Leyendo el fichero de importación SQL
+[Fri, 08 Aug 2014 12:33:55 +0200] -> INFO: Ejecutando script SQL
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: Se han ejecutado correctamente 1 de 1 instrucciones
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: Aplicando los cambios en los productos...
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: Se han obtenido 0 productos y 0 combinaciones a actualizar
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: Se han actualizado correctamente 0 de 0 productos y 0 de 0 combianciones
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: Comprobando productos nuevos...
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: Hay 15 productos o combinaciones de producto nuevos a importar.
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: <li><em>7612811999027 - Sirope de savia 500ml                              ( Precio: 25.6700    - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: <li><em>8423245260046 - Carbonato de magnesio 160G - Sakai                 ( Precio: 0.0000     - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: <li><em>8424644211233 - Aminoácidos esenciales 100compr. - Nutrisport     ( Precio: 24.5700    - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: <li><em>8427483010258 - Aminoácidos esenciales 500mg. 100comp. Sotya      ( Precio: 8.9500     - Stock: 4.0000 )</em></li>
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: <li><em>8429673111707 - 11- 12 Lax - Santa Flora                           ( Precio: 4.6000     - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: <li><em>8436000680089 - Cloruro de magnesio 200G - AML                     ( Precio: 5.7700     - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: <li><em>8436000680348 - Colageno con magnesio 180compr. - AML              ( Precio: 8.1500     - Stock: 3.0000 )</em></li>
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: <li><em>8436000680393 - Colágeno magnesio polvo 350G - AML                ( Precio: 0.0000     - Stock: 1.0000 )</em></li>
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: <li><em>8436000680485 - Colágeno con Magnesio 20 Sticks - Lajusticia      ( Precio: 6.3200     - Stock: 6.0000 )</em></li>
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: <li><em>8436000680492 - Colágeno con magnesio 270comp. - AML              ( Precio: 11.7500    - Stock: 7.0000 )</em></li>
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: <li><em>8436034160496 - Hepanet 20viales - Way Diet Line                   ( Precio: 15.2000    - Stock: 9.0000 )</em></li>
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: <li><em>8436034160724 - Hidross Diuret 250ml. - Way Diet Line              ( Precio: 7.9800     - Stock: -1.0000 )</em></li>
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: <li><em>8436044511837 - Oseogen articular en polvo 375G - Drasanvi         ( Precio: 22.5500    - Stock: 2.0000 )</em></li>
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: <li><em>8436044512995 - Cetonas de frambuesa 60comp. - Drasanvi            ( Precio: 20.8500    - Stock: 3.0000 )</em></li>
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: <li><em>8436044513206 - Jarabe cetonas de frambuesa 500ml. - Drasanvi      ( Precio: 19.8000    - Stock: 6.0000 )</em></li>
+[Fri, 08 Aug 2014 12:34:10 +0200] -> INFO: Se han generado ficheros CSV de importación de categorías y productos nuevos, para importarlos acceda a la pestaña FactuSOL del Back-Office de su tienda y siga las instrucciones.
+[Fri, 08 Aug 2014 12:34:10 +0200] -> ERROR: Proceso finalizado.
+[Fri, 08 Aug 2014 12:39:02 +0200] -> INFO: Importando datos desde Factusol
+[Fri, 08 Aug 2014 12:39:02 +0200] -> INFO: Leyendo el fichero de importación SQL
+[Fri, 08 Aug 2014 12:39:02 +0200] -> INFO: Ejecutando script SQL
+[Fri, 08 Aug 2014 12:39:15 +0200] -> INFO: Se han ejecutado correctamente 1 de 1 instrucciones
+[Fri, 08 Aug 2014 12:39:15 +0200] -> INFO: Aplicando los cambios en los productos...
+[Fri, 08 Aug 2014 12:39:28 +0200] -> INFO: Se han obtenido 15 productos y 0 combinaciones a actualizar
+[Fri, 08 Aug 2014 12:39:28 +0200] -> INFO: Se han actualizado correctamente 15 de 15 productos y 0 de 0 combianciones
+[Fri, 08 Aug 2014 12:39:28 +0200] -> INFO: Comprobando productos nuevos...
+[Fri, 08 Aug 2014 12:39:28 +0200] -> INFO: Hay 0 productos o combinaciones de producto nuevos a importar.
+[Fri, 08 Aug 2014 12:39:28 +0200] -> ERROR: Proceso finalizado.
+[Fri, 08 Aug 2014 13:10:36 +0200] -> INFO: Importando datos desde Factusol
+[Fri, 08 Aug 2014 13:10:36 +0200] -> INFO: Leyendo el fichero de importación SQL
+[Fri, 08 Aug 2014 13:10:36 +0200] -> INFO: Ejecutando script SQL
+[Fri, 08 Aug 2014 13:10:49 +0200] -> INFO: Se han ejecutado correctamente 1 de 1 instrucciones
+[Fri, 08 Aug 2014 13:10:49 +0200] -> INFO: Aplicando los cambios en los productos...
+[Fri, 08 Aug 2014 13:11:01 +0200] -> INFO: Se han obtenido 15 productos y 0 combinaciones a actualizar
+[Fri, 08 Aug 2014 13:11:01 +0200] -> INFO: Se han actualizado correctamente 15 de 15 productos y 0 de 0 combianciones
+[Fri, 08 Aug 2014 13:11:01 +0200] -> INFO: Comprobando productos nuevos...
+[Fri, 08 Aug 2014 13:11:01 +0200] -> INFO: Hay 0 productos o combinaciones de producto nuevos a importar.
+[Fri, 08 Aug 2014 13:11:01 +0200] -> ERROR: Proceso finalizado.
+[Thu, 28 May 2015 13:47:12 +0200] -> INFO: <b>Importando datos desde Factusol</b>
+[Thu, 28 May 2015 13:47:12 +0200] -> INFO: <span style="color:blue">Leyendo el fichero de importación SQL...</span>
+[Thu, 28 May 2015 13:47:12 +0200] -> INFO: <span style="color:blue">Ejecutando script SQL...</span>
+[Thu, 28 May 2015 13:47:20 +0200] -> INFO: Se han ejecutado correctamente 47 de 47 instrucciones
+[Thu, 28 May 2015 13:47:20 +0200] -> INFO: <span style="color:blue">Aplicando los cambios en los productos...</span>
+[Thu, 28 May 2015 13:47:20 +0200] -> INFO: Se han obtenido 0 productos y 0 combinaciones a actualizar
+[Thu, 28 May 2015 13:47:20 +0200] -> INFO: Se han actualizado correctamente 0 de 0 productos y 0 de 0 combianciones
+[Thu, 28 May 2015 13:47:20 +0200] -> INFO: <span style="color:blue">Comprobando productos nuevos...</span>
+[Thu, 28 May 2015 13:47:20 +0200] -> INFO: Hay 11 productos o combinaciones de producto nuevos a importar.
+[Thu, 28 May 2015 13:47:20 +0200] -> INFO: <li><em>DM-08.0001 - KIT XENON H7 6000K 35W CAN-BUS PROF. 2011          ( Precio: 110.9200   - Stock: -1.0000 )</em></li>
+[Thu, 28 May 2015 13:47:20 +0200] -> INFO: <li><em>DM-08.0002 - XENON ESTABILIZADOR 12V - BORRADOR DE FALLOS       ( Precio: 42.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:47:20 +0200] -> INFO: <li><em>DM-08.0003 - KIT XENON H4 6000K 35W 12V BIXENON                 ( Precio: 109.8900   - Stock: -1.0000 )</em></li>
+[Thu, 28 May 2015 13:47:20 +0200] -> INFO: <li><em>DM-08.0004 - KIT XENON H7 6000K 35W 12V-24V SEMI CAN-BUS        ( Precio: 115.5600   - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:47:20 +0200] -> INFO: <li><em>DM-08.0005 - LAMPARA XENON D1R 6000K                            ( Precio: 61.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:47:20 +0200] -> INFO: <li><em>DM-08.0006 - LAMPARA XENON D1S 6000K                            ( Precio: 70.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:47:20 +0200] -> INFO: <li><em>DM-08.0007 - LAMPARA XENON D2R 6000K                            ( Precio: 49.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:47:20 +0200] -> INFO: <li><em>DM-08.0008 - LAMPARA XENON D2S 6000K                            ( Precio: 36.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:47:20 +0200] -> INFO: <li><em>DM-08.0009 - LAMPARA XENON D3S 6000K                            ( Precio: 90.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:47:20 +0200] -> INFO: <li><em>DM-08.0010 - LAMPARA XENON H4 BIXENON 6000K                     ( Precio: 49.8000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:47:20 +0200] -> INFO: <li><em>DM-08.0011 - LAMPARA XENON H7 6000K                             ( Precio: 28.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:47:20 +0200] -> INFO: <span style="color:blue">Borrando tablas temporales...</span>
+[Thu, 28 May 2015 13:47:20 +0200] -> ERROR: <span style="color:blue">Proceso finalizado.</span>
+[Thu, 28 May 2015 13:54:01 +0200] -> INFO: <b>Importando datos desde Factusol</b>
+[Thu, 28 May 2015 13:54:01 +0200] -> INFO: <span style="color:blue">Leyendo el fichero de importación SQL...</span>
+[Thu, 28 May 2015 13:54:01 +0200] -> INFO: <span style="color:blue">Ejecutando script SQL...</span>
+[Thu, 28 May 2015 13:54:09 +0200] -> INFO: Se han ejecutado correctamente 47 de 47 instrucciones
+[Thu, 28 May 2015 13:54:09 +0200] -> INFO: <span style="color:blue">Aplicando los cambios en los productos...</span>
+[Thu, 28 May 2015 13:54:10 +0200] -> INFO: Se han obtenido 1 productos y 0 combinaciones a actualizar
+[Thu, 28 May 2015 13:54:10 +0200] -> INFO: Se han actualizado correctamente 1 de 1 productos y 0 de 0 combianciones
+[Thu, 28 May 2015 13:54:10 +0200] -> INFO: <span style="color:blue">Comprobando productos nuevos...</span>
+[Thu, 28 May 2015 13:54:11 +0200] -> INFO: Hay 10 productos o combinaciones de producto nuevos a importar.
+[Thu, 28 May 2015 13:54:11 +0200] -> INFO: <li><em>DM-08.0002 - XENON ESTABILIZADOR 12V - BORRADOR DE FALLOS       ( Precio: 42.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:54:11 +0200] -> INFO: <li><em>DM-08.0003 - KIT XENON H4 6000K 35W 12V BIXENON                 ( Precio: 109.8900   - Stock: -1.0000 )</em></li>
+[Thu, 28 May 2015 13:54:11 +0200] -> INFO: <li><em>DM-08.0004 - KIT XENON H7 6000K 35W 12V-24V SEMI CAN-BUS        ( Precio: 115.5600   - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:54:11 +0200] -> INFO: <li><em>DM-08.0005 - LAMPARA XENON D1R 6000K                            ( Precio: 61.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:54:11 +0200] -> INFO: <li><em>DM-08.0006 - LAMPARA XENON D1S 6000K                            ( Precio: 70.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:54:11 +0200] -> INFO: <li><em>DM-08.0007 - LAMPARA XENON D2R 6000K                            ( Precio: 49.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:54:11 +0200] -> INFO: <li><em>DM-08.0008 - LAMPARA XENON D2S 6000K                            ( Precio: 36.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:54:11 +0200] -> INFO: <li><em>DM-08.0009 - LAMPARA XENON D3S 6000K                            ( Precio: 90.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:54:11 +0200] -> INFO: <li><em>DM-08.0010 - LAMPARA XENON H4 BIXENON 6000K                     ( Precio: 49.8000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:54:11 +0200] -> INFO: <li><em>DM-08.0011 - LAMPARA XENON H7 6000K                             ( Precio: 28.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:54:11 +0200] -> INFO: <span style="color:blue">Borrando tablas temporales...</span>
+[Thu, 28 May 2015 13:54:12 +0200] -> ERROR: <span style="color:blue">Proceso finalizado.</span>
+[Thu, 28 May 2015 13:54:27 +0200] -> INFO: <b>Importando datos desde Factusol</b>
+[Thu, 28 May 2015 13:54:27 +0200] -> INFO: <span style="color:blue">Leyendo el fichero de importación SQL...</span>
+[Thu, 28 May 2015 13:54:27 +0200] -> INFO: <span style="color:blue">Ejecutando script SQL...</span>
+[Thu, 28 May 2015 13:54:34 +0200] -> INFO: Se han ejecutado correctamente 47 de 47 instrucciones
+[Thu, 28 May 2015 13:54:34 +0200] -> INFO: <span style="color:blue">Aplicando los cambios en los productos...</span>
+[Thu, 28 May 2015 13:54:36 +0200] -> INFO: Se han obtenido 1 productos y 0 combinaciones a actualizar
+[Thu, 28 May 2015 13:54:36 +0200] -> INFO: Se han actualizado correctamente 1 de 1 productos y 0 de 0 combianciones
+[Thu, 28 May 2015 13:54:36 +0200] -> INFO: <span style="color:blue">Comprobando productos nuevos...</span>
+[Thu, 28 May 2015 13:54:36 +0200] -> INFO: Hay 10 productos o combinaciones de producto nuevos a importar.
+[Thu, 28 May 2015 13:54:36 +0200] -> INFO: <li><em>DM-08.0002 - XENON ESTABILIZADOR 12V - BORRADOR DE FALLOS       ( Precio: 42.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:54:36 +0200] -> INFO: <li><em>DM-08.0003 - KIT XENON H4 6000K 35W 12V BIXENON                 ( Precio: 109.8900   - Stock: -1.0000 )</em></li>
+[Thu, 28 May 2015 13:54:36 +0200] -> INFO: <li><em>DM-08.0004 - KIT XENON H7 6000K 35W 12V-24V SEMI CAN-BUS        ( Precio: 115.5600   - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:54:36 +0200] -> INFO: <li><em>DM-08.0005 - LAMPARA XENON D1R 6000K                            ( Precio: 61.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:54:36 +0200] -> INFO: <li><em>DM-08.0006 - LAMPARA XENON D1S 6000K                            ( Precio: 70.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:54:36 +0200] -> INFO: <li><em>DM-08.0007 - LAMPARA XENON D2R 6000K                            ( Precio: 49.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:54:36 +0200] -> INFO: <li><em>DM-08.0008 - LAMPARA XENON D2S 6000K                            ( Precio: 36.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:54:36 +0200] -> INFO: <li><em>DM-08.0009 - LAMPARA XENON D3S 6000K                            ( Precio: 90.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:54:36 +0200] -> INFO: <li><em>DM-08.0010 - LAMPARA XENON H4 BIXENON 6000K                     ( Precio: 49.8000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:54:36 +0200] -> INFO: <li><em>DM-08.0011 - LAMPARA XENON H7 6000K                             ( Precio: 28.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:54:36 +0200] -> INFO: <span style="color:blue">Borrando tablas temporales...</span>
+[Thu, 28 May 2015 13:54:37 +0200] -> ERROR: <span style="color:blue">Proceso finalizado.</span>
+[Thu, 28 May 2015 13:56:22 +0200] -> INFO: <b>Importando datos desde Factusol</b>
+[Thu, 28 May 2015 13:56:22 +0200] -> INFO: <span style="color:blue">Leyendo el fichero de importación SQL...</span>
+[Thu, 28 May 2015 13:56:22 +0200] -> INFO: <span style="color:blue">Ejecutando script SQL...</span>
+[Thu, 28 May 2015 13:56:29 +0200] -> INFO: Se han ejecutado correctamente 47 de 47 instrucciones
+[Thu, 28 May 2015 13:56:29 +0200] -> INFO: <span style="color:blue">Aplicando los cambios en los productos...</span>
+[Thu, 28 May 2015 13:56:31 +0200] -> INFO: Se han obtenido 1 productos y 0 combinaciones a actualizar
+[Thu, 28 May 2015 13:56:31 +0200] -> INFO: Se han actualizado correctamente 1 de 1 productos y 0 de 0 combianciones
+[Thu, 28 May 2015 13:56:31 +0200] -> INFO: <span style="color:blue">Comprobando productos nuevos...</span>
+[Thu, 28 May 2015 13:56:31 +0200] -> INFO: Hay 10 productos o combinaciones de producto nuevos a importar.
+[Thu, 28 May 2015 13:56:31 +0200] -> INFO: <li><em>DM-08.0002 - XENON ESTABILIZADOR 12V - BORRADOR DE FALLOS       ( Precio: 42.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:56:31 +0200] -> INFO: <li><em>DM-08.0003 - KIT XENON H4 6000K 35W 12V BIXENON                 ( Precio: 109.8900   - Stock: -1.0000 )</em></li>
+[Thu, 28 May 2015 13:56:31 +0200] -> INFO: <li><em>DM-08.0004 - KIT XENON H7 6000K 35W 12V-24V SEMI CAN-BUS        ( Precio: 115.5600   - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:56:31 +0200] -> INFO: <li><em>DM-08.0005 - LAMPARA XENON D1R 6000K                            ( Precio: 61.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:56:31 +0200] -> INFO: <li><em>DM-08.0006 - LAMPARA XENON D1S 6000K                            ( Precio: 70.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:56:31 +0200] -> INFO: <li><em>DM-08.0007 - LAMPARA XENON D2R 6000K                            ( Precio: 49.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:56:31 +0200] -> INFO: <li><em>DM-08.0008 - LAMPARA XENON D2S 6000K                            ( Precio: 36.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:56:31 +0200] -> INFO: <li><em>DM-08.0009 - LAMPARA XENON D3S 6000K                            ( Precio: 90.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:56:31 +0200] -> INFO: <li><em>DM-08.0010 - LAMPARA XENON H4 BIXENON 6000K                     ( Precio: 49.8000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:56:31 +0200] -> INFO: <li><em>DM-08.0011 - LAMPARA XENON H7 6000K                             ( Precio: 28.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:56:31 +0200] -> INFO: <span style="color:blue">Borrando tablas temporales...</span>
+[Thu, 28 May 2015 13:56:33 +0200] -> ERROR: <span style="color:blue">Proceso finalizado.</span>
+[Thu, 28 May 2015 13:56:46 +0200] -> INFO: <b>Importando datos desde Factusol</b>
+[Thu, 28 May 2015 13:56:46 +0200] -> INFO: <span style="color:blue">Leyendo el fichero de importación SQL...</span>
+[Thu, 28 May 2015 13:56:46 +0200] -> INFO: <span style="color:blue">Ejecutando script SQL...</span>
+[Thu, 28 May 2015 13:56:54 +0200] -> INFO: Se han ejecutado correctamente 47 de 47 instrucciones
+[Thu, 28 May 2015 13:56:54 +0200] -> INFO: <span style="color:blue">Aplicando los cambios en los productos...</span>
+[Thu, 28 May 2015 13:56:55 +0200] -> INFO: Se han obtenido 1 productos y 0 combinaciones a actualizar
+[Thu, 28 May 2015 13:56:55 +0200] -> INFO: Se han actualizado correctamente 1 de 1 productos y 0 de 0 combianciones
+[Thu, 28 May 2015 13:56:55 +0200] -> INFO: <span style="color:blue">Comprobando productos nuevos...</span>
+[Thu, 28 May 2015 13:56:55 +0200] -> INFO: Hay 10 productos o combinaciones de producto nuevos a importar.
+[Thu, 28 May 2015 13:56:55 +0200] -> INFO: <li><em>DM-08.0002 - XENON ESTABILIZADOR 12V - BORRADOR DE FALLOS       ( Precio: 42.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:56:55 +0200] -> INFO: <li><em>DM-08.0003 - KIT XENON H4 6000K 35W 12V BIXENON                 ( Precio: 109.8900   - Stock: -1.0000 )</em></li>
+[Thu, 28 May 2015 13:56:55 +0200] -> INFO: <li><em>DM-08.0004 - KIT XENON H7 6000K 35W 12V-24V SEMI CAN-BUS        ( Precio: 115.5600   - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:56:55 +0200] -> INFO: <li><em>DM-08.0005 - LAMPARA XENON D1R 6000K                            ( Precio: 61.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:56:55 +0200] -> INFO: <li><em>DM-08.0006 - LAMPARA XENON D1S 6000K                            ( Precio: 70.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:56:55 +0200] -> INFO: <li><em>DM-08.0007 - LAMPARA XENON D2R 6000K                            ( Precio: 49.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:56:55 +0200] -> INFO: <li><em>DM-08.0008 - LAMPARA XENON D2S 6000K                            ( Precio: 36.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:56:55 +0200] -> INFO: <li><em>DM-08.0009 - LAMPARA XENON D3S 6000K                            ( Precio: 90.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:56:55 +0200] -> INFO: <li><em>DM-08.0010 - LAMPARA XENON H4 BIXENON 6000K                     ( Precio: 49.8000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:56:55 +0200] -> INFO: <li><em>DM-08.0011 - LAMPARA XENON H7 6000K                             ( Precio: 28.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:56:55 +0200] -> INFO: <span style="color:blue">Borrando tablas temporales...</span>
+[Thu, 28 May 2015 13:56:58 +0200] -> ERROR: <span style="color:blue">Proceso finalizado.</span>
+[Thu, 28 May 2015 13:58:44 +0200] -> INFO: <b>Importando datos desde Factusol</b>
+[Thu, 28 May 2015 13:58:44 +0200] -> INFO: <span style="color:blue">Leyendo el fichero de importación SQL...</span>
+[Thu, 28 May 2015 13:58:44 +0200] -> INFO: <span style="color:blue">Ejecutando script SQL...</span>
+[Thu, 28 May 2015 13:58:51 +0200] -> INFO: Se han ejecutado correctamente 47 de 47 instrucciones
+[Thu, 28 May 2015 13:58:51 +0200] -> INFO: <span style="color:blue">Aplicando los cambios en los productos...</span>
+[Thu, 28 May 2015 13:58:53 +0200] -> INFO: Se han obtenido 1 productos y 0 combinaciones a actualizar
+[Thu, 28 May 2015 13:58:53 +0200] -> INFO: Se han actualizado correctamente 1 de 1 productos y 0 de 0 combianciones
+[Thu, 28 May 2015 13:58:53 +0200] -> INFO: <span style="color:blue">Comprobando productos nuevos...</span>
+[Thu, 28 May 2015 13:58:53 +0200] -> INFO: Hay 10 productos o combinaciones de producto nuevos a importar.
+[Thu, 28 May 2015 13:58:53 +0200] -> INFO: <li><em>DM-08.0002 - XENON ESTABILIZADOR 12V - BORRADOR DE FALLOS       ( Precio: 42.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:58:53 +0200] -> INFO: <li><em>DM-08.0003 - KIT XENON H4 6000K 35W 12V BIXENON                 ( Precio: 109.8900   - Stock: -1.0000 )</em></li>
+[Thu, 28 May 2015 13:58:53 +0200] -> INFO: <li><em>DM-08.0004 - KIT XENON H7 6000K 35W 12V-24V SEMI CAN-BUS        ( Precio: 115.5600   - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:58:53 +0200] -> INFO: <li><em>DM-08.0005 - LAMPARA XENON D1R 6000K                            ( Precio: 61.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:58:53 +0200] -> INFO: <li><em>DM-08.0006 - LAMPARA XENON D1S 6000K                            ( Precio: 70.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:58:53 +0200] -> INFO: <li><em>DM-08.0007 - LAMPARA XENON D2R 6000K                            ( Precio: 49.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:58:53 +0200] -> INFO: <li><em>DM-08.0008 - LAMPARA XENON D2S 6000K                            ( Precio: 36.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:58:53 +0200] -> INFO: <li><em>DM-08.0009 - LAMPARA XENON D3S 6000K                            ( Precio: 90.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:58:53 +0200] -> INFO: <li><em>DM-08.0010 - LAMPARA XENON H4 BIXENON 6000K                     ( Precio: 49.8000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:58:53 +0200] -> INFO: <li><em>DM-08.0011 - LAMPARA XENON H7 6000K                             ( Precio: 28.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 13:58:53 +0200] -> INFO: <span style="color:blue">Borrando tablas temporales...</span>
+[Thu, 28 May 2015 13:58:55 +0200] -> ERROR: <span style="color:blue">Proceso finalizado.</span>
+[Thu, 28 May 2015 14:09:14 +0200] -> INFO: <b>Importando datos desde Factusol</b>
+[Thu, 28 May 2015 14:09:14 +0200] -> INFO: <span style="color:blue">Leyendo el fichero de importación SQL...</span>
+[Thu, 28 May 2015 14:09:14 +0200] -> INFO: <span style="color:blue">Ejecutando script SQL...</span>
+[Thu, 28 May 2015 14:09:21 +0200] -> INFO: Se han ejecutado correctamente 47 de 47 instrucciones
+[Thu, 28 May 2015 14:09:21 +0200] -> INFO: <span style="color:blue">Aplicando los cambios en los productos...</span>
+[Thu, 28 May 2015 14:09:23 +0200] -> INFO: Se han obtenido 1 productos y 0 combinaciones a actualizar
+[Thu, 28 May 2015 14:09:23 +0200] -> INFO: Se han actualizado correctamente 1 de 1 productos y 0 de 0 combianciones
+[Thu, 28 May 2015 14:09:23 +0200] -> INFO: <span style="color:blue">Comprobando productos nuevos...</span>
+[Thu, 28 May 2015 14:09:23 +0200] -> INFO: Hay 10 productos o combinaciones de producto nuevos a importar.
+[Thu, 28 May 2015 14:09:23 +0200] -> INFO: <li><em>DM-08.0002 - XENON ESTABILIZADOR 12V - BORRADOR DE FALLOS       ( Precio: 42.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:09:23 +0200] -> INFO: <li><em>DM-08.0003 - KIT XENON H4 6000K 35W 12V BIXENON                 ( Precio: 109.8900   - Stock: -1.0000 )</em></li>
+[Thu, 28 May 2015 14:09:23 +0200] -> INFO: <li><em>DM-08.0004 - KIT XENON H7 6000K 35W 12V-24V SEMI CAN-BUS        ( Precio: 115.5600   - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:09:23 +0200] -> INFO: <li><em>DM-08.0005 - LAMPARA XENON D1R 6000K                            ( Precio: 61.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:09:23 +0200] -> INFO: <li><em>DM-08.0006 - LAMPARA XENON D1S 6000K                            ( Precio: 70.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:09:23 +0200] -> INFO: <li><em>DM-08.0007 - LAMPARA XENON D2R 6000K                            ( Precio: 49.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:09:23 +0200] -> INFO: <li><em>DM-08.0008 - LAMPARA XENON D2S 6000K                            ( Precio: 36.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:09:23 +0200] -> INFO: <li><em>DM-08.0009 - LAMPARA XENON D3S 6000K                            ( Precio: 90.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:09:23 +0200] -> INFO: <li><em>DM-08.0010 - LAMPARA XENON H4 BIXENON 6000K                     ( Precio: 49.8000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:09:23 +0200] -> INFO: <li><em>DM-08.0011 - LAMPARA XENON H7 6000K                             ( Precio: 28.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:09:23 +0200] -> INFO: <span style="color:blue">Borrando tablas temporales...</span>
+[Thu, 28 May 2015 14:09:24 +0200] -> ERROR: <span style="color:blue">Proceso finalizado.</span>
+[Thu, 28 May 2015 14:10:11 +0200] -> INFO: <b>Importando datos desde Factusol</b>
+[Thu, 28 May 2015 14:10:11 +0200] -> INFO: <span style="color:blue">Leyendo el fichero de importación SQL...</span>
+[Thu, 28 May 2015 14:10:11 +0200] -> INFO: <span style="color:blue">Ejecutando script SQL...</span>
+[Thu, 28 May 2015 14:10:18 +0200] -> INFO: Se han ejecutado correctamente 47 de 47 instrucciones
+[Thu, 28 May 2015 14:10:18 +0200] -> INFO: <span style="color:blue">Aplicando los cambios en los productos...</span>
+[Thu, 28 May 2015 14:10:20 +0200] -> INFO: Se han obtenido 1 productos y 0 combinaciones a actualizar
+[Thu, 28 May 2015 14:10:20 +0200] -> INFO: Se han actualizado correctamente 1 de 1 productos y 0 de 0 combianciones
+[Thu, 28 May 2015 14:10:20 +0200] -> INFO: <span style="color:blue">Comprobando productos nuevos...</span>
+[Thu, 28 May 2015 14:10:20 +0200] -> INFO: Hay 10 productos o combinaciones de producto nuevos a importar.
+[Thu, 28 May 2015 14:10:20 +0200] -> INFO: <li><em>DM-08.0002 - XENON ESTABILIZADOR 12V - BORRADOR DE FALLOS       ( Precio: 42.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:10:20 +0200] -> INFO: <li><em>DM-08.0003 - KIT XENON H4 6000K 35W 12V BIXENON                 ( Precio: 109.8900   - Stock: -1.0000 )</em></li>
+[Thu, 28 May 2015 14:10:20 +0200] -> INFO: <li><em>DM-08.0004 - KIT XENON H7 6000K 35W 12V-24V SEMI CAN-BUS        ( Precio: 115.5600   - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:10:20 +0200] -> INFO: <li><em>DM-08.0005 - LAMPARA XENON D1R 6000K                            ( Precio: 61.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:10:20 +0200] -> INFO: <li><em>DM-08.0006 - LAMPARA XENON D1S 6000K                            ( Precio: 70.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:10:20 +0200] -> INFO: <li><em>DM-08.0007 - LAMPARA XENON D2R 6000K                            ( Precio: 49.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:10:20 +0200] -> INFO: <li><em>DM-08.0008 - LAMPARA XENON D2S 6000K                            ( Precio: 36.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:10:20 +0200] -> INFO: <li><em>DM-08.0009 - LAMPARA XENON D3S 6000K                            ( Precio: 90.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:10:20 +0200] -> INFO: <li><em>DM-08.0010 - LAMPARA XENON H4 BIXENON 6000K                     ( Precio: 49.8000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:10:20 +0200] -> INFO: <li><em>DM-08.0011 - LAMPARA XENON H7 6000K                             ( Precio: 28.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:10:20 +0200] -> INFO: <span style="color:blue">Borrando tablas temporales...</span>
+[Thu, 28 May 2015 14:10:21 +0200] -> ERROR: <span style="color:blue">Proceso finalizado.</span>
+[Thu, 28 May 2015 14:12:04 +0200] -> INFO: <b>Importando datos desde Factusol</b>
+[Thu, 28 May 2015 14:12:04 +0200] -> INFO: <span style="color:blue">Leyendo el fichero de importación SQL...</span>
+[Thu, 28 May 2015 14:12:04 +0200] -> INFO: <span style="color:blue">Ejecutando script SQL...</span>
+[Thu, 28 May 2015 14:12:12 +0200] -> INFO: Se han ejecutado correctamente 47 de 47 instrucciones
+[Thu, 28 May 2015 14:12:12 +0200] -> INFO: <span style="color:blue">Aplicando los cambios en los productos...</span>
+[Thu, 28 May 2015 14:12:12 +0200] -> INFO: Se han obtenido 1 productos y 0 combinaciones a actualizar
+[Thu, 28 May 2015 14:12:12 +0200] -> INFO: Se han actualizado correctamente 1 de 1 productos y 0 de 0 combianciones
+[Thu, 28 May 2015 14:12:12 +0200] -> INFO: <span style="color:blue">Comprobando productos nuevos...</span>
+[Thu, 28 May 2015 14:12:12 +0200] -> INFO: Hay 10 productos o combinaciones de producto nuevos a importar.
+[Thu, 28 May 2015 14:12:12 +0200] -> INFO: <li><em>DM-08.0002 - XENON ESTABILIZADOR 12V - BORRADOR DE FALLOS       ( Precio: 42.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:12:12 +0200] -> INFO: <li><em>DM-08.0003 - KIT XENON H4 6000K 35W 12V BIXENON                 ( Precio: 109.8900   - Stock: -1.0000 )</em></li>
+[Thu, 28 May 2015 14:12:12 +0200] -> INFO: <li><em>DM-08.0004 - KIT XENON H7 6000K 35W 12V-24V SEMI CAN-BUS        ( Precio: 115.5600   - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:12:12 +0200] -> INFO: <li><em>DM-08.0005 - LAMPARA XENON D1R 6000K                            ( Precio: 61.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:12:12 +0200] -> INFO: <li><em>DM-08.0006 - LAMPARA XENON D1S 6000K                            ( Precio: 70.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:12:12 +0200] -> INFO: <li><em>DM-08.0007 - LAMPARA XENON D2R 6000K                            ( Precio: 49.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:12:12 +0200] -> INFO: <li><em>DM-08.0008 - LAMPARA XENON D2S 6000K                            ( Precio: 36.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:12:12 +0200] -> INFO: <li><em>DM-08.0009 - LAMPARA XENON D3S 6000K                            ( Precio: 90.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:12:12 +0200] -> INFO: <li><em>DM-08.0010 - LAMPARA XENON H4 BIXENON 6000K                     ( Precio: 49.8000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:12:12 +0200] -> INFO: <li><em>DM-08.0011 - LAMPARA XENON H7 6000K                             ( Precio: 28.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:12:12 +0200] -> INFO: <span style="color:blue">Borrando tablas temporales...</span>
+[Thu, 28 May 2015 14:12:14 +0200] -> ERROR: <span style="color:blue">Proceso finalizado.</span>
+[Thu, 28 May 2015 14:14:02 +0200] -> INFO: <b>Importando datos desde Factusol</b>
+[Thu, 28 May 2015 14:14:02 +0200] -> INFO: <span style="color:blue">Leyendo el fichero de importación SQL...</span>
+[Thu, 28 May 2015 14:14:02 +0200] -> INFO: <span style="color:blue">Ejecutando script SQL...</span>
+[Thu, 28 May 2015 14:14:09 +0200] -> INFO: Se han ejecutado correctamente 47 de 47 instrucciones
+[Thu, 28 May 2015 14:14:09 +0200] -> INFO: <span style="color:blue">Aplicando los cambios en los productos...</span>
+[Thu, 28 May 2015 14:14:10 +0200] -> INFO: Se han obtenido 1 productos y 0 combinaciones a actualizar
+[Thu, 28 May 2015 14:14:10 +0200] -> INFO: Se han actualizado correctamente 1 de 1 productos y 0 de 0 combianciones
+[Thu, 28 May 2015 14:14:10 +0200] -> INFO: <span style="color:blue">Comprobando productos nuevos...</span>
+[Thu, 28 May 2015 14:14:10 +0200] -> INFO: Hay 10 productos o combinaciones de producto nuevos a importar.
+[Thu, 28 May 2015 14:14:10 +0200] -> INFO: <li><em>DM-08.0002 - XENON ESTABILIZADOR 12V - BORRADOR DE FALLOS       ( Precio: 42.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:14:10 +0200] -> INFO: <li><em>DM-08.0003 - KIT XENON H4 6000K 35W 12V BIXENON                 ( Precio: 109.8900   - Stock: -1.0000 )</em></li>
+[Thu, 28 May 2015 14:14:10 +0200] -> INFO: <li><em>DM-08.0004 - KIT XENON H7 6000K 35W 12V-24V SEMI CAN-BUS        ( Precio: 115.5600   - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:14:10 +0200] -> INFO: <li><em>DM-08.0005 - LAMPARA XENON D1R 6000K                            ( Precio: 61.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:14:10 +0200] -> INFO: <li><em>DM-08.0006 - LAMPARA XENON D1S 6000K                            ( Precio: 70.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:14:10 +0200] -> INFO: <li><em>DM-08.0007 - LAMPARA XENON D2R 6000K                            ( Precio: 49.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:14:10 +0200] -> INFO: <li><em>DM-08.0008 - LAMPARA XENON D2S 6000K                            ( Precio: 36.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:14:10 +0200] -> INFO: <li><em>DM-08.0009 - LAMPARA XENON D3S 6000K                            ( Precio: 90.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:14:10 +0200] -> INFO: <li><em>DM-08.0010 - LAMPARA XENON H4 BIXENON 6000K                     ( Precio: 49.8000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:14:10 +0200] -> INFO: <li><em>DM-08.0011 - LAMPARA XENON H7 6000K                             ( Precio: 28.0000    - Stock: 0.0000 )</em></li>
+[Thu, 28 May 2015 14:14:10 +0200] -> INFO: <span style="color:blue">Borrando tablas temporales...</span>
+[Thu, 28 May 2015 14:14:12 +0200] -> ERROR: <span style="color:blue">Proceso finalizado.</span>
